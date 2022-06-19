@@ -7,24 +7,3 @@
 
 # v2ray订阅地址分享
 https://api.dler.io/sub?target=v2ray&url=https%3A%2F%2Fxfxdy.qiqis.ml%2Fv2%2Fv2ray.txt&insert=false
-
-# 使用教程
-Clash 使用教程
-Windows | Mac | Android
-
-Shadowsocks 使用教程
-Windows | macOS | iOS | Android | Linux
-
-ShadowsockR 使用教程
-Windows | macOS | iOS | Android | Linux
-
-V2ray 使用教程
-Windows | Android
-
-其它教程
-Proxy SwitchyOmega设置教程
-Chrome | Firefox
-
-Proxifier 设置教程
-
-设置自定义 DNS 服务器
