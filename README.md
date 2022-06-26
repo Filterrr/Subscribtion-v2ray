@@ -18,4 +18,4 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fxfxdy.qiqis
 
 ## Clash 使用教程
 
-[Windows](Clash/Clash_Windows.md)  |  [Mac](Clash/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
+[Windows](Clash/Clash_Windows.md](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Windows.md)  |  [Mac](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Mac.md) |  [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Android.md) 
