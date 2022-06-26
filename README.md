@@ -17,3 +17,5 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fxfxdy.qiqis
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2rayN_Windows.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/V2ray/V2ray_Android.md)
 
 ## Clash 使用教程
+
+[Windows](Clash/Clash_Windows.md)  |  [Mac](Clash/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
